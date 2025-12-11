@@ -1,0 +1,6 @@
+streamlit==1.40.0
+pandas
+numpy
+matplotlib
+# CPU-only PyTorch wheel
+torch==2.4.0 --index-url https://download.pytorch.org/whl/cpu
